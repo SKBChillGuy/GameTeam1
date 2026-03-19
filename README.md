@@ -1,4 +1,4 @@
 # Tasks <br><br>
 
-####Player Movement -
-                      j
+#### Player Movement -
+                      WASD keys
