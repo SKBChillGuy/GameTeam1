@@ -1,6 +1,6 @@
 # Tasks <br><br>
 
-#### Player Movement 
+#### Movement and Camera
 - WASD keys to move
 - No sprinting in normal sections
 - Sprint only for combat sections
